@@ -102,7 +102,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
   font-weight: normal;
@@ -134,8 +133,9 @@ a:visited { text-decoration: none;color: #948c76}
     letter-spacing: .1em;
     line-height: 2em;
     display: inline-block;
-    color: #948c76;
-    background: #fdf4e8;
+    color: #AB82FF;
+    background: #F0F8FF;
+    opacity: 0.8;
 }
 .page {
     max-width: 800px;
@@ -146,10 +146,11 @@ a:visited { text-decoration: none;color: #948c76}
     color: #3f1c1c;
     font-size: 1.0em;
 }
+
 .page h1 {
     margin-left: -20px;
     padding-left: 15px;
-    border-left: 5px solid #e38fa9;
+    border-left: 5px solid #AB82FF;
     text-align: left;
     font-size: 1.2em;
     font-weight: 900!important;
