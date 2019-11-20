@@ -1,10 +1,8 @@
-# myvue
+# 个人简历
 
-> 个人简历
+> 使用vue框架编写的纯静态页面，没有后台。
 
-使用vue框架编写的纯静态页面，没有后台。
-
-## Build Setup
+## 运行项目
 
 ``` bash
 # install dependencies
