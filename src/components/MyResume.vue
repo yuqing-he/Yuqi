@@ -63,7 +63,7 @@
             <p>● 珠海金慧科技有限公司 （ 2019 年 6 月 ~ 8月 ）</p>
             <div class="box">
               <p><b>主导金桥法务1.0后台管理系统开发</b></p>
-              <p>- 使用用*H-ui*前端框架开发的轻量级网站后台模版采用源生 html 语言，使用vue.js进行项目开发</p>
+              <p>- 使用*H-ui*前端框架开发的轻量级网站后台模版采用源生 html 语言，使用vue.js进行项目开发</p>
               <p>- 涉及功能：律师管理、图文管理、用户权限管理、列表数据展示、数据审核、增删改查、原生接口对接等</p>
             </div>
           </div>
@@ -72,7 +72,7 @@
             <div class="box">
               <p><b>创业项目负责人/前端开发</b></p>
               <p>- 负责开发小组的工作调度、人员职能安排与分配、参加创新创业大赛的活动，前端与后端开发的进度以及跟进和时间安排等任务</p>
-              <p>- 负责官网静态页开发及简单交互</p>
+              <p>- 负责app静态页开发及简单交互</p>
             </div>
           </div>
           <div class="boxes bg-gray">
@@ -127,7 +127,7 @@ a:hover { text-decoration:underline;color: red}
 a:visited { text-decoration: none;color: #948c76}
 
 .my-name {
-    font-size: 2.0em;
+    font-size: 1.8em;
     font-weight: 400;
     padding: 0 .5em;
     letter-spacing: .1em;
@@ -146,7 +146,10 @@ a:visited { text-decoration: none;color: #948c76}
     color: #3f1c1c;
     font-size: 1.0em;
 }
-
+h1 {
+  padding: 0;
+  margin: 0;
+}
 .page h1 {
     margin-left: -20px;
     padding-left: 15px;

@@ -22,7 +22,7 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
-  font-size: 16px;
+  font-size: 14px;
 }
 .logo_h {
   position: fixed;
@@ -34,8 +34,8 @@ export default {
 .Header {
   width: 40vw;
   height: 40vw;
-  max-width: 120px;
-  max-height: 120px;
+  max-width: 90px;
+  max-height: 90px;
   border-radius: 50%;
 }
 </style>
